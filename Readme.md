@@ -26,4 +26,4 @@ Preet Kamal Singh Minhas
 [BigSmilez Beat Store](https://www.bigsmilezmusic.com)
 
 ## Like this utility?
-I'd appreciate it if you drop me an [email](preet@bigsmilezmusic.com) or follow me on Instagram [@bigsmilezmusic](https://www.instagram.com/bigsmilezmusic/)
+I'd appreciate it if you drop me an [email](mailto:preet@bigsmilezmusic.com) or follow me on Instagram [@bigsmilezmusic](https://www.instagram.com/bigsmilezmusic/)
