@@ -15,15 +15,13 @@ I was looking for an easy way to collate all my Maschine expansions outside of M
 * Run command `python3 mkd.py`
 * Follow the on-screen instructions
 
+## Do you love this project? Sponsor it!
+
+<p align="center">
+<a href="https://github.com/sponsors/pkminhas"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor on GitHub"></a>
+  <a href="https://ko-fi.com/pkminhas"><img src="https://img.shields.io/badge/Support_on_Ko--fi-%E2%98%95-ff5e5b?logo=kofi&logoColor=white&style=for-the-badge" alt="Support on Ko-fi"></a>
+</p>
+
+
 ### Note
 In case an expansion kit's output directory already exists, this utility will skip processing that particular kit 
-
-# Credits
-Preet Kamal Singh Minhas
-
-[My Software Company](https://MarchingBytes.com)
-
-[BigSmilez Beat Store](https://www.bigsmilezmusic.com)
-
-## Like this utility?
-I'd appreciate it if you drop me an [email](mailto:preet@bigsmilezmusic.com) or follow me on Instagram [@bigsmilezmusic](https://www.instagram.com/bigsmilezmusic/)
